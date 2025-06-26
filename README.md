@@ -123,14 +123,6 @@ npm run dev
 
 ---
 
-## 💻 Screenshots
-
-| Login Page                        | Dashboard                             | Course Certificate                      |
-| --------------------------------- | ------------------------------------- | --------------------------------------- |
-| ![](public/images/login.png | ![](public/images/dashboard.jpg) | ![](public/images/certificate.jpg) |
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. Feel free to open an issue to discuss improvements.
