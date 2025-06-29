@@ -148,6 +148,6 @@ This project is open-source under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Likhitha Nasaka**
-📧 Email: [your-email@example.com](mailto:likhithagayatri36@gmail.com)
+📧 Email: [likhithagayatri36@gmail.com](mailto:likhithagayatri36@gmail.com)
 🔗 GitHub: [Likhi9680](https://github.com/Likhi9680)
 
